@@ -1,2 +1,3 @@
-# brand-kit
-Meteora's Brand Kit
+# Meteora Brand Kit
+
+Complete set of Meteora' Brand Logos
